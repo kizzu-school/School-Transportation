@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kizzu - The Schoolbus Tracker</string>
+    <string name="facebook_app_id">1102412789936486</string>
+    <string name="fb_login_protocol_scheme">fb1102412789936486</string>
+</resources>
