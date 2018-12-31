@@ -1,4 +1,4 @@
-package com.crygen.kizzu
+package com.crygen.kizzu.viewmodel
 
 import android.arch.lifecycle.ViewModel;
 
