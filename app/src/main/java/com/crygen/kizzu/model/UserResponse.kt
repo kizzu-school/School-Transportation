@@ -2,10 +2,11 @@ package com.crygen.kizzu.model
 
 import com.google.gson.annotations.SerializedName
 
-class ResultResponse {
+class UserResponse {
     @SerializedName("success")
     var success : Boolean = false
-    var userId : String = ""
 
+    @SerializedName("userdata")
+    var userData : UserData? = null
 
 }
